@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Programming/Cpp/Cpp_training/Cpp_github/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\hello.cpp.obj -c E:\\Programming\\Cpp\\Cpp_training\\Cpp_github\\hello.cpp",
+  "file": "E:/Programming/Cpp/Cpp_training/Cpp_github/hello.cpp"
+}
+]
