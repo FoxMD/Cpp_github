@@ -1,4 +1,0 @@
-D:/git/Cpp_github/build/CMakeFiles/hello.dir
-D:/git/Cpp_github/build/CMakeFiles/greeting.dir
-D:/git/Cpp_github/build/CMakeFiles/ALL_BUILD.dir
-D:/git/Cpp_github/build/CMakeFiles/ZERO_CHECK.dir
