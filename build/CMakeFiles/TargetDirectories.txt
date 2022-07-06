@@ -1,3 +1,4 @@
-E:/Programming/Cpp/Cpp_training/Cpp_github/build/CMakeFiles/hello.dir
-E:/Programming/Cpp/Cpp_training/Cpp_github/build/CMakeFiles/edit_cache.dir
-E:/Programming/Cpp/Cpp_training/Cpp_github/build/CMakeFiles/rebuild_cache.dir
+D:/git/Cpp_github/build/CMakeFiles/hello.dir
+D:/git/Cpp_github/build/CMakeFiles/greeting.dir
+D:/git/Cpp_github/build/CMakeFiles/ALL_BUILD.dir
+D:/git/Cpp_github/build/CMakeFiles/ZERO_CHECK.dir
